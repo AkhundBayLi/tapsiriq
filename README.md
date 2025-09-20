@@ -1,0 +1,2 @@
+# tapsiriq
+Tapsiriqin hazirlanmasina cehd
